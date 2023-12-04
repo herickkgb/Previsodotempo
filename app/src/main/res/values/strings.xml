@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Previsão do tempo</string>
+    <string name="localizacao_atual">Localização Atual</string>
 </resources>
